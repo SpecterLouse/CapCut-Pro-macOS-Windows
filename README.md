@@ -254,7 +254,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/CapCut-Pro-Elite-Suite">
+  <a href="https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows">
     <img src="https://img.shields.io/badge/Made%20with%20🎬%20for%20Content%20Creators-FF0050?style=for-the-badge" alt="Made with love">
   </a>
 </p>
